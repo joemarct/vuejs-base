@@ -1,0 +1,25 @@
+body {
+    background: rgb(83, 81, 81);
+    color: white;
+    padding: 20px;
+}
+
+#nav {
+    height: 50px;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: white;
+}
+
+a:active {
+    color: white;
+}
